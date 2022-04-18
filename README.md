@@ -3,6 +3,9 @@ Repository for graph database project based on the public transportation dataset
 
 #### SOURCES
 
+NEO4J Project set up and CSV import: <br />
+https://neo4j.com/developer/desktop-csv-import/ <br />
+
 Spacial Coordinates: <br />
 https://neo4j.com/blog/building-spatial-search-algorithms-neo4j/
 
