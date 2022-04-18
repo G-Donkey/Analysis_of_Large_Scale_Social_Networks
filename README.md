@@ -10,6 +10,7 @@ NEO4J Variables handling: <br />
 https://neo4j.com/docs/cypher-manual/current/functions/scalar/#functions-toboolean <br />
 
 Spacial Coordinates: <br />
+https://neo4j.com/docs/cypher-manual/current/functions/spatial/ <br />
 https://neo4j.com/blog/building-spatial-search-algorithms-neo4j/
 
 Transport graphs: <br />
