@@ -1,0 +1,4 @@
+// Import info from file about stop info
+LOAD CSV WITH HEADERS FROM 'file:///Haltepunkt.csv' AS csv
+WITH toBoolean(csv.halt_punkt_ist_aktiv) AS Stop_Active, toInteger(csv.halt_punkt_id) AS Substop_ID, toInteger(csv.halt_id) as Stop_ID, point({latitude: toFloat(csv.GPS_Latitude), longitude: toFloat(csv.GPS_Longitude), crs:'WGS-84'}) AS Stop_point
+create (a:Stop {id:Substop_ID, location:Stop_point, active:Stop_Active})
