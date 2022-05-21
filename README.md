@@ -20,3 +20,9 @@ Transport graphs: <br />
 http://blog.bruggen.com/2015/11/loading-general-transport-feed-spec.html <br />
 http://blog.bruggen.com/2015/11/querying-gtfs-data-using-neo4j-23-part.html <br />
 http://blog.bruggen.com/2015/03/hidden-graphgems-revisited-22-meta-graph.html
+
+Weights: <br />
+http://semanticgeek.com/graph/exploring-the-different-types-of-weights-in-a-connected-graph/
+
+Indexes and constraints: <br />
+https://dzone.com/articles/neo4j-indexes-match-merge
