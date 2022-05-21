@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-<key id="location" for="node" attr.name="location" attr.type="long"/>
-<key id="id" for="node" attr.name="id" attr.type="string"/>
+<key id="location" for="node" attr.name="location" attr.type="string"/>
+<key id="id" for="node" attr.name="id" attr.type="long"/>
 <key id="labels" for="node" attr.name="labels" attr.type="string"/>
 <key id="weight" for="edge" attr.name="weight" attr.type="long"/>
 <key id="label" for="edge" attr.name="label" attr.type="string"/>
