@@ -53,5 +53,5 @@ Graphs in Jupyter Notebook: <br />
 https://medium.com/@technologydata25/connect-neo4j-to-jupyter-notebook-c178f716d6d5
 
 Create maps:<br />
-https://github.com/stellasia/neomap/releases
+https://github.com/stellasia/neomap/releases <br />
 https://medium.com/neo4j/introducing-neomap-a-neo4j-desktop-application-for-spatial-data-3e14aad59db2
