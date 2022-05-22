@@ -50,7 +50,8 @@ Indexes and constraints: <br />
 https://dzone.com/articles/neo4j-indexes-match-merge
 
 Graphs in Jupyter Notebook: <br />
-https://medium.com/@technologydata25/connect-neo4j-to-jupyter-notebook-c178f716d6d5
+https://medium.com/@technologydata25/connect-neo4j-to-jupyter-notebook-c178f716d6d5 <br />
+https://medium.com/neo4j/visualizing-shortest-paths-with-neomap-0-4-0-and-the-neo4j-graph-data-science-plugin-18db92f680de
 
 Create maps:<br />
 https://github.com/stellasia/neomap/releases <br />
