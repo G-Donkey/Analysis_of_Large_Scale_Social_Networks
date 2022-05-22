@@ -1,7 +1,7 @@
 # Analysis_of_Large_Scale_Social_Networks
 Repository for graph database project in NEO4J based on the public transportation dataset of the city of Zurich
 
-#### PYTHON WITH NEO4J ON LOCAL MACHINE
+### PYTHON WITH NEO4J ON LOCAL MACHINE
     
     # Connect, read and write to graph on NEO4J
     from neo4j import GraphDatabase 
@@ -14,13 +14,13 @@ Repository for graph database project in NEO4J based on the public transportatio
     with driver.session() as session: session.write_transaction(retrieve_nodes)
 
     driver.close()
-https://neo4j.com/docs/operations-manual/current/configuration/password-and-user-recovery/index.html
+ALTER USER neo4j SET PASSWORD '*'
 <br />
-ALTER USER neo4j SET PASSWORD 'mynewpass'
+https://neo4j.com/docs/operations-manual/current/configuration/password-and-user-recovery/index.html
 
 
 
-#### SOURCES
+### SOURCES
 
 Database: <br />
 https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd_2018/download/Fahrzeiten_SOLL_IST_20181007_20181013.csv
