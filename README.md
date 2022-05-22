@@ -19,7 +19,8 @@ https://neo4j.com/docs/operations-manual/current/configuration/password-and-user
 <br />
 ALTER USER neo4j SET PASSWORD 'mynewpass'
 
-<br />
+
+
 #### SOURCES
 
 Database: <br />
