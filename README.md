@@ -1,6 +1,24 @@
 # Analysis_of_Large_Scale_Social_Networks
 Repository for graph database project in NEO4J based on the public transportation dataset of the city of Zurich
 
+#### PYTHON WITH NEO4J ON LOCAL MACHINE
+
+from neo4j import GraphDatabase
+driver = GraphDatabase.driver("neo4j://localhost:7687", auth=("neo4j", "password"))
+
+def retrieve_nodes(tx):
+    for record in tx.run("MATCH (n) RETURN n"):
+        print(record['n'])
+
+with driver.session() as session:
+    session.write_transaction(retrieve_nodes)
+
+driver.close()
+
+https://neo4j.com/docs/operations-manual/current/configuration/password-and-user-recovery/index.html
+ALTER USER neo4j SET PASSWORD 'mynewpass'
+
+
 #### SOURCES
 
 Database: <br />
