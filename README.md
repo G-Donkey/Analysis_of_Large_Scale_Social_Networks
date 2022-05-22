@@ -28,6 +28,9 @@ https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd_2018/download/Fahrzeite
 Project set up and CSV import: <br />
 https://neo4j.com/developer/desktop-csv-import/ <br />
 
+Tutorials: <br />
+https://neo4j.com/video/bite-sized-neo4j-for-data-scientists/?_gl=1*1x0ctxx*_ga*MTU5NTM3OTcuMTY1MDI2NDgwMw..*_ga_DL38Q8KGQC*MTY1MzI0NjY0My4zNy4xLjE2NTMyNDkwNzAuMA..&_ga=2.179887908.1239981520.1653119416-15953797.1650264803&_gac=1.23926472.1650283870.Cj0KCQjwmPSSBhCNARIsAH3cYgZNSPQ8_TanbUvj1I0JNDISpAD23A6hnM7Grr4odlLQfIAO0uKstq4aAoc3EALw_wcB
+
 Variables handling: <br />
 https://neo4j.com/docs/cypher-manual/current/functions/scalar/#functions-toboolean <br />
 
