@@ -14,6 +14,7 @@ with driver.session() as session: session.write_transaction(retrieve_nodes)
 <br />
 driver.close()
 <br />
+<br />
 https://neo4j.com/docs/operations-manual/current/configuration/password-and-user-recovery/index.html
 <br />
 ALTER USER neo4j SET PASSWORD 'mynewpass'
