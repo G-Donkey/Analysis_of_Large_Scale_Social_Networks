@@ -1,0 +1,6 @@
+TO DO:
+	
+Show map with substops on NEOMAP in Notebook
+Explain the workings of the queries in Notebook
+Add more properties to nodes in order to show we know how to work with Cypher
+Visualise all nodes that get left out (with order indication?) on NEOMAP and show as image in Notebook.
